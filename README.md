@@ -1,2 +1,2 @@
 # amghezi
-Just a project for tutorial
+dor kolash ghermezi
